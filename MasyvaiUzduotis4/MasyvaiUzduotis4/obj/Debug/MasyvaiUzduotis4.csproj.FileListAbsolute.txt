@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\MasyvaiUzduotis4\MasyvaiUzduotis4\bin\Debug\MasyvaiUzduotis4.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\MasyvaiUzduotis4\MasyvaiUzduotis4\bin\Debug\MasyvaiUzduotis4.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\MasyvaiUzduotis4\MasyvaiUzduotis4\bin\Debug\MasyvaiUzduotis4.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\MasyvaiUzduotis4\MasyvaiUzduotis4\obj\Debug\MasyvaiUzduotis4.csprojResolveAssemblyReference.cache
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\MasyvaiUzduotis4\MasyvaiUzduotis4\obj\Debug\MasyvaiUzduotis4.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\MasyvaiUzduotis4\MasyvaiUzduotis4\obj\Debug\MasyvaiUzduotis4.pdb

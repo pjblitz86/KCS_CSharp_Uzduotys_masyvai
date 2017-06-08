@@ -1,0 +1,5 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\MasyvaiUzduotis21\MasyvaiUzduotis21\bin\Debug\MasyvaiUzduotis21.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\MasyvaiUzduotis21\MasyvaiUzduotis21\bin\Debug\MasyvaiUzduotis21.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\MasyvaiUzduotis21\MasyvaiUzduotis21\bin\Debug\MasyvaiUzduotis21.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\MasyvaiUzduotis21\MasyvaiUzduotis21\obj\Debug\MasyvaiUzduotis21.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\MasyvaiUzduotis21\MasyvaiUzduotis21\obj\Debug\MasyvaiUzduotis21.pdb
